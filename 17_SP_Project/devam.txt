@@ -1,0 +1,2 @@
+Name	 Event Name	 Date	 Total_Amount
+devam	Freshers_Party	25-6-2022	17500

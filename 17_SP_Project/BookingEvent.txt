@@ -1,0 +1,7 @@
+Name	 Event Name	 Date	 Total_Amount
+
+nisha	Freshers_Party	23-5-2022	37500
+Devam	Freshers_Party	6-7-2022	15000
+darshi	Farewell_Party	15-6-2022	18000
+
+darshi	Farewell_Party	18-7-2022	30000

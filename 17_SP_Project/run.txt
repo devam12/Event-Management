@@ -1,0 +1,6 @@
+ gcc -c generatebill.c -c storedata.c -c viewevent.c
+ ar rs libbillfile.a generatebill.o storedata.o viewevent.o
+ gcc printbill.c -o printbill.out
+gcc -c main.c
+gcc -o main.out main.o libbillfile.a -pthread
+./main.out

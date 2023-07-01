@@ -1,0 +1,5 @@
+1,Birthday_Party,400,Music-Decoration-Food
+2,Farewell_Party,300,Music-Decoration-Food
+3,Freshers_Party,250,Music-Decoration-Food
+4,GetToGether,350,Music-Decoration-Food
+5,Anniversary_Party,600,Music-Decoration-Food
